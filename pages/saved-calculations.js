@@ -117,5 +117,3 @@ export default function SavedCalculations({ user }) {
     </DashboardLayout>
   )
 }
-
-export const getServerSideProps = withAuth;
